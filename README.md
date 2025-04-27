@@ -1,5 +1,4 @@
 Medical Report Decoder 🩺📄
-Weekend Hustle AI Prototype Challenge Entry
 A Python-based AI tool that makes medical reports understandable to everyone.Upload your medical documents and get simplified explanations, smart summaries, and personalized health precautions.
 
 🌟 Features
@@ -57,10 +56,8 @@ uvicorn app:app --reload
 ![alt text](<Screenshot 2025-04-27 at 6.21.27 PM.png>)
 ![alt text](<Screenshot 2025-04-27 at 6.21.51 PM.png>) ![alt text](<Screenshot 2025-04-27 at 6.22.07 PM.png>) ![alt text](<Screenshot 2025-04-27 at 6.22.15 PM.png>) ![alt text](<Screenshot 2025-04-27 at 6.22.36 PM.png>)
 
-🙏 Acknowledgements
+Acknowledgements
 * OpenAI — for the amazing language models
 * Hugging Face — for open-source transformer models
 * PyTesseract, pdfplumber — for document processing
 * The Open Source Community — for incredible libraries that made this project possible
-
-Made with ❤️ for the Weekend Hustle AI Prototype Challenge – April 2025
